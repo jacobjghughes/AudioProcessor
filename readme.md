@@ -1,3 +1,6 @@
+https://github.com/jacobjghughes/AudioProcessor
+# Audio Processor
+
 I completed this task in roughly 8 hours. It took me a bit longer than I would have liked, but I learnt some new techniques along the way, which contributed to the time taken.
 I've never done multi-threading in CPP before, so I first designed a linear version of the program, which I then refactored to utilise multi-threading. I used online resources and ChatGPT to help learn and debug errors I encountered when implementing multi-threading.
 I have attached both the linear version and the threaded version in case this is of interest, but the threaded version should be considered the final solution.
